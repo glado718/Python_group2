@@ -2,7 +2,7 @@
 
 Members
 
-Clement Mla
+Clement Mlay
 Gladys Rotich
 Marion Nyaboke
 Ruth Moraa
