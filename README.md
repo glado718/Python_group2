@@ -1,8 +1,8 @@
 # Python_group2
 
-#Members
+Members
 
-Clement Mlay
+Clement Mla
 Gladys Rotich
 Marion Nyaboke
 Ruth Moraa
