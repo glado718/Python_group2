@@ -1,6 +1,6 @@
 # Python_group2
 
-Members
+Members list
 
 Clement Mlay
 Gladys Rotich
