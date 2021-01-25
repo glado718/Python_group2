@@ -7,3 +7,4 @@ Gladys Rotich
 Marion Nyaboke
 Ruth Moraa
 
+these are the group members
